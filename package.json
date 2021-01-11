@@ -6,5 +6,12 @@
     "start": "node src",
     "dev": "nodemon src",
     "dev2": "nodemon -x \"cls && node src\""
-  }
+  },
+  "dependencies": {
+    "config": "^3.3.1",
+    "decline-word": "^1.2.11",
+    "mongodb": "^3.5.5",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {}
 }

@@ -1,0 +1,4 @@
+config
+dump
+node_modules
+ecosystem.config.js
