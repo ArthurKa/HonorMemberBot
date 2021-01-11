@@ -1,0 +1,10 @@
+{
+  "name": "HonorMemberBot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src",
+    "dev2": "nodemon -x \"cls && node src\""
+  }
+}
